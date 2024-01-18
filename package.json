@@ -1,0 +1,17 @@
+{
+  "name": "desafio_fundamentos_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.6",
+    "csv-parse": "^5.5.3"
+  }
+}
